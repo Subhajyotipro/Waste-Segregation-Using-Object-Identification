@@ -9,14 +9,17 @@ The project is designed for **real-world deployment** in **smart cities**, **pub
 
 ## 🧠 Core Model
 
-- **Model:** YOLOv8 (Ultralytics)
+- **Model:** Resnet 50 + Fine tuning
 - **Task:** Multi-class object detection
 - **Classes:**
-  - Recyclable
-  - Organic
-  - Hazardous
-  - Contaminated-Recyclable (unique feature)
-- **Framework:** PyTorch
+  - Glass
+  - cardboard
+  - Paper
+  - Plastic
+  - Trash
+  - Metal
+  - 
+- **Framework:** Keras / Tensor FLow
 
 ---
 
