@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "waste segregation",
+			"path": "."
+		},
+		{
+			"name": "TrashType_Image_Dataset",
+			"path": "../Desktop/TrashType_Image_Dataset"
+		}
+	],
+	"settings": {}
+}
