@@ -17,7 +17,7 @@ The project is designed for **real-world deployment** in **smart cities**, **pub
   - Plastic
   - Trash
   - Metal
-  - 
+  
 - **Framework:** Keras / Tensor FLow
 
 ---
@@ -31,4 +31,6 @@ The project is designed for **real-world deployment** in **smart cities**, **pub
 
 ### 🛠️ Requirements
 ```bash
-pip install ultralytics opencv-python torch
+FOR Dataset : 
+# Download latest version
+path = kagglehub.dataset_download("farzadnekouei/trash-type-image-dataset")
