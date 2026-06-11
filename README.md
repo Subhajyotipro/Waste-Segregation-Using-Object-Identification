@@ -1,7 +1,6 @@
 # ♻️ Waste Segregation Using Object Identification
 
-An AI-powered system to automatically detect and classify waste into  
-**Recyclable**, **Organic**, and **Hazardous** categories using computer vision.
+An AI-powered system to automatically detect and classify waste into categories using computer vision.
 
 The project is designed for **real-world deployment** in **smart cities**, **public waste management**, and **mobile-based waste sorting systems**.
 
